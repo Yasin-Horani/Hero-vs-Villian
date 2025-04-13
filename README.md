@@ -1,4 +1,11 @@
 # Omnibus 1.18
+<pre>
+  ___  __  __ _   _ ___ ____  _   _ ____  
+ / _ \|  \/  | \ | |_ _| __ )| | | / ___| 
+| | | | |\/| |  \| || ||  _ \| | | \___ \ 
+| |_| | |  | | |\  || || |_) | |_| |___) |
+ \___/|_|  |_|_| \_|___|____/ \___/|____/
+<pre/>
 
 Introduction
 This Java application offers a dynamic simulation environment where users can orchestrate battles between superheroes and villains. Leveraging object-oriented programming principles, the application provides a robust platform for managing teams, equipping characters with gadgets, and conducting battles through an interactive console-based interface.
